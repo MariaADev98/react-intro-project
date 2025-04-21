@@ -19,6 +19,11 @@ export const ways = [
     description:
       'VK, Avito, Тинькофф, Kaspersky — действующие разработчики с опытом преподавания для большой аудитории.',
   },
+  {
+    title: 'Наши наставники',
+    description:
+      ' - специалисты уровня middle и выше.Процесс отбора наставников в Result проходят лишь единицы из 1000 откликов .',
+  },
 ]
 
 export const differences = {
